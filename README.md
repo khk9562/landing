@@ -10,3 +10,4 @@ npm run start
 
 - framer-motion
 - react-intersection-observer
+- tailwind
