@@ -1,4 +1,4 @@
-### Sunway Adventure Landing Page
+### Landing Page
 
 #### 실행명령어
 
